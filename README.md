@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋 I´m Johanna Tarabelli
+A passionate QA tester from Argentina
+
+<img src="https://" alt="logo personal" />
 
 <!--
 **johannatarabelli/johannaTarabelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

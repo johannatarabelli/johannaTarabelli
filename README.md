@@ -48,7 +48,8 @@ Mis responsavilidades como Team Leaer incluyen: Coordinar las reuniones de segui
   
 ### Algunos iconos
 
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,figma,github,mysql,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,github,mysql,postman,vscode,visualstudio&theme=dark)](https://skillicons.dev)
+
 
 
 <!--

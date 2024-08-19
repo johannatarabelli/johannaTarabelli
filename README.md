@@ -48,8 +48,8 @@ Mis responsavilidades como Team Leaer incluyen: Coordinar las reuniones de segui
 
 ## 📖 Curriculum Vitae
 - [JOHANNA TARABELLI_ CV ESPAÑOL]([ruta/a/documentacion.pdf](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/JOHANNA%20TARABELLI_%20CV%20ESPA%C3%91OL.pdf))
-- [Guía de Estilo del Proyecto](https://www.figma.com/design/6zpFTDPZMJIABz5thVWbsm/MERCADO-CHAMBA?node-id=0-1&t=B9m0kH87pK3vAA2h-0)
-- [Organización del Proyecto](https://trello.com/b/JJlgL08E/backlog-c19-12-m-csharp-angular)
+- [CV - Proof of Soft Skills_ESPAÑOL](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/CV%20-%20Proof%20of%20Soft%20Skills%20-%20Johana%20Tarabelli%20ES.pdf)
+- [CV - Proof of Soft Skills_ENGLISH](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/CV%20-%20Proof%20of%20Soft%20Skills%20-%20Johana%20Tarabelli%20EN.pdf)
   
 ### Algunos iconos
 

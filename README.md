@@ -32,7 +32,7 @@ Mis responsavilidades como Team Leaer incluyen: Coordinar las reuniones de segui
 
 ## 🔗 Un proyecto en el que estoy trabajando es Mercado Chamba. Enlaces Importantes
 
-- [Documentación del Proyecto](ruta/a/documentacion.pdf)
+- [Documentación del Proyecto](https://github.com/johannatarabelli/mercadochamba/tree/main/DOCUMENTACION)
 - [Guía de Estilo del Proyecto](https://www.figma.com/design/6zpFTDPZMJIABz5thVWbsm/MERCADO-CHAMBA?node-id=0-1&t=B9m0kH87pK3vAA2h-0)
 - [Organización del Proyecto](https://trello.com/b/JJlgL08E/backlog-c19-12-m-csharp-angular)
 - [GitHub del Proyecto](https://github.com/No-Country-simulation/c19-12-m-csharp-angular)
@@ -45,6 +45,11 @@ Mis responsavilidades como Team Leaer incluyen: Coordinar las reuniones de segui
 - Gestion de proyectos: `Trello`  `Jira`  `Jet Brains` `Figma`
 - Base de datos: `My SQL`  `Postgre` `SQL Server`
 - QA: `Postman` `Swagger` `XRay Workflow`
+
+## 📖 Curriculum Vitae
+- [JOHANNA TARABELLI_ CV ESPAÑOL]([ruta/a/documentacion.pdf](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/JOHANNA%20TARABELLI_%20CV%20ESPA%C3%91OL.pdf))
+- [Guía de Estilo del Proyecto](https://www.figma.com/design/6zpFTDPZMJIABz5thVWbsm/MERCADO-CHAMBA?node-id=0-1&t=B9m0kH87pK3vAA2h-0)
+- [Organización del Proyecto](https://trello.com/b/JJlgL08E/backlog-c19-12-m-csharp-angular)
   
 ### Algunos iconos
 

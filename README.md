@@ -26,7 +26,7 @@ No Country, realizadando simulaciones laborales,  donde me desempeño como QA, d
 
 Responsabilidades en el rol de QA: Selección de herramientas de trabajo, como Trello y Figma para la gestión de proyectos. Creación de historias de usuarios y sus criterios de aceptación. Elaboración del correspondiente plan de pruebas. Diseño de casos de prueba. Ejecución de casos de prueba de manera manual. Pruebas de endpoints (backend) con Swagger y Postman. Informe de los issues encontrados. Asi como tambien, la organización de reuniones diarias, planificación de actividades, presentación de cada sprint y presentación final de la aplicación.
 
-Mis responsavilidades como Team Leaer incluyen: Coordinar las reuniones de seguimiento. Asistir y guiar al equipo en el desarrollo del proyecto. Registrar la asistencia y el avance del Equipo. Facilitar la comunicación de los miembros del equipo.
+Mis responsabilidades como Team Leaer incluyen: Coordinar las reuniones de seguimiento. Asistir y guiar al equipo en el desarrollo del proyecto. Registrar la asistencia y el avance del Equipo. Facilitar la comunicación de los miembros del equipo.
 
 
 

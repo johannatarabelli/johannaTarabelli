@@ -1,5 +1,5 @@
 # Hola a todos 👋 Soy Johanna Tarabelli
-*Una apacionada QA tester de Argentina, enfocada en la mejora continua de los procesos de software, considero que las pruebas son un paso crucial en el desarrollo, ya que garantizan que el producto sea confiable, eficiente y cumpla con todas las especificaciones y requisitos del usuario.*
+Una apacionada QA tester de Argentina, enfocada en la mejora continua de los procesos de software, considero que las pruebas son un paso crucial en el desarrollo, ya que garantizan que el producto sea confiable, eficiente y cumpla con todas las especificaciones y requisitos del usuario.
 
 <img src="https://github.com/johannatarabelli/johannaTarabelli/blob/main/ASSET/Screenshot_1.png" alt="logo personal" />
 

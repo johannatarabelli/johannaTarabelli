@@ -26,13 +26,13 @@ No Country, realizadando simulaciones laborales,  donde me desempeño como QA, d
 
 Responsabilidades en el rol de QA: Selección de herramientas de trabajo, como Trello y Figma para la gestión de proyectos. Creación de historias de usuarios y sus criterios de aceptación. Elaboración del correspondiente plan de pruebas. Diseño de casos de prueba. Ejecución de casos de prueba de manera manual. Pruebas de endpoints (backend) con Swagger y Postman. Informe de los issues encontrados. Asi como tambien, la organización de reuniones diarias, planificación de actividades, presentación de cada sprint y presentación final de la aplicación.
 
-Mis responsavilidades como Team Leaer incluyen: Coordinar las reuniones de seguimiento. Asistir y guiar al equipo en el desarrollo del proyecto. Registrar la asistencia y el avance del Equipo. Facilitar la comunicación de los miembros del equipo.
+Mis responsabilidades como Team Leaer incluyen: Coordinar las reuniones de seguimiento. Asistir y guiar al equipo en el desarrollo del proyecto. Registrar la asistencia y el avance del Equipo. Facilitar la comunicación de los miembros del equipo.
 
 
 
 ## 🔗 Un proyecto en el que estoy trabajando es Mercado Chamba. Enlaces Importantes
 
-- [Documentación del Proyecto](ruta/a/documentacion.pdf)
+- [Documentación del Proyecto](https://github.com/johannatarabelli/mercadochamba/tree/main/DOCUMENTACION)
 - [Guía de Estilo del Proyecto](https://www.figma.com/design/6zpFTDPZMJIABz5thVWbsm/MERCADO-CHAMBA?node-id=0-1&t=B9m0kH87pK3vAA2h-0)
 - [Organización del Proyecto](https://trello.com/b/JJlgL08E/backlog-c19-12-m-csharp-angular)
 - [GitHub del Proyecto](https://github.com/No-Country-simulation/c19-12-m-csharp-angular)
@@ -45,10 +45,16 @@ Mis responsavilidades como Team Leaer incluyen: Coordinar las reuniones de segui
 - Gestion de proyectos: `Trello`  `Jira`  `Jet Brains` `Figma`
 - Base de datos: `My SQL`  `Postgre` `SQL Server`
 - QA: `Postman` `Swagger` `XRay Workflow`
+
+## 📖 Curriculum Vitae
+- [JOHANNA TARABELLI_ CV ESPAÑOL](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/JOHANNA%20TARABELLI_%20CV%20ESPA%C3%91OL.pdf)
+- [CV - Proof of Soft Skills_ESPAÑOL](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/CV%20-%20Proof%20of%20Soft%20Skills%20-%20Johana%20Tarabelli%20ES.pdf)
+- [CV - Proof of Soft Skills_ENGLISH](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/CV%20-%20Proof%20of%20Soft%20Skills%20-%20Johana%20Tarabelli%20EN.pdf)
   
 ### Algunos iconos
 
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,figma,github,mysql,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,github,mysql,postman,vscode,visualstudio&theme=dark)](https://skillicons.dev)
+
 
 
 <!--

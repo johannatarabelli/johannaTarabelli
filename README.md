@@ -47,7 +47,8 @@ Mis responsabilidades como Team Leaer incluyen: Coordinar las reuniones de segui
 - QA: `Postman` `Swagger` `XRay Workflow`
 
 ## 📖 Curriculum Vitae
-- [JOHANNA TARABELLI_ CV ESPAÑOL](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/JOHANNA%20TARABELLI_%20CV%20ESPA%C3%91OL.pdf)
+- [JOHANNA TARABELLI_ CV ESPAÑOL](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/JOHANNA%20TARABELLI_CV%20ESPA%C3%91OL.pdf)
+- [JOHANNA TARABELLI_ CV ENGLISH](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/JOHANNA%20TARABELLI%20CV_ENGLISH.pdf)
 - [CV - Proof of Soft Skills_ESPAÑOL](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/CV%20-%20Proof%20of%20Soft%20Skills%20-%20Johana%20Tarabelli%20ES.pdf)
 - [CV - Proof of Soft Skills_ENGLISH](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/CV%20-%20Proof%20of%20Soft%20Skills%20-%20Johana%20Tarabelli%20EN.pdf)
   

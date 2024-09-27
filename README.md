@@ -1,34 +1,51 @@
 # Hola a todos 👋 Soy Johanna Tarabelli
-Una apacionada QA tester de Argentina, enfocada en la mejora continua de los procesos de software, considero que las pruebas son un paso crucial en el desarrollo, ya que garantizan que el producto sea confiable, eficiente y cumpla con todas las especificaciones y requisitos del usuario.
+Una apacionada Analista QA de Argentina, enfocada en la mejora continua de los procesos de software, considero que las pruebas son un paso crucial en el desarrollo, ya que garantizan que el producto sea confiable, eficiente y cumpla con todas las especificaciones y requisitos del usuario.
 
-<img src="https://github.com/johannatarabelli/johannaTarabelli/blob/main/ASSET/Screenshot_1.png" alt="logo personal" />
+<img src="https://github.com/johannatarabelli/johannaTarabelli/blob/main/ASSET/NUEVA%20MARCA%20PERSONAL.png" alt="logo personal" />
 
 ## 📖 Descripción del Personal
 
-Profesional orientada principalmente a medir la calidad de los procesos, utilizados para crear software de calidad.
+Profesional orientada principalmente a medir la calidad de los procesos, utilizados para crear software de calidad. Al mismo tiempo, me desarrollo en la gestión de proyectos y liderazgo de equipos IT. Cuento con capacidad de trabajo en equipo, adaptabilidad al cambio y enfoque de aprendizaje autodirigido. 
 
-Cuento con capacidad de trabajo en equipo, adaptabilidad al cambio y enfoque de aprendizaje autodirigido.
+Orientada a seguir aprendiendo y mejorando mis habilidades para mantenerme actualizada con las últimas tecnologías en el campo de la gestión de proyectos y el testing. 
 
-Orientada a seguir aprendiendo y mejorando mis habilidades para mantenerme actualizada con las últimas tecnologías en el campo de testing y programación. Con gran entusiasmo por aplicar mis conocimientos y habilidades en proyectos desafiantes y contribuir significativamente en los proyectos que se me presenten.
+Con gran entusiasmo por aplicar mis conocimientos y habilidades en proyectos desafiantes y contribuir significativamente en los proyectos que se me presenten.
 
 ## ![image](https://github.com/user-attachments/assets/2a831fc3-0f2a-4278-b0e6-8b71ff59ed2d) Datos de contacto
 
 | Avatar                        | Nombre          | Rol                    | GitHub & Redes            | Telefono                        | E-mail          | Ciudad                    | Pais            |
 | ----------------------------- | --------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | --------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |       |
-| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/141964978?v=4" alt="johannatarabelli avatar" /> | Johanna Tarabelli | QA                     | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/johannatarabelli) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/johanna-tarabelli-a2501041/)   | 54+ 2615469032 | johita.tarabelli@gmail.com| Mendoza                     | Argentina   | 
+| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/141964978?v=4" alt="johannatarabelli avatar" /> | Johanna Tarabelli | QA                     | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/johannatarabelli) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/johanna-tarabelli)   | 54+ 2615469032 | johita.tarabelli@gmail.com| Mendoza                     | Argentina   | 
 |            |
 
 
 ## 👨‍💻 Actualmente estoy trabajando en 
 
-No Country, realizadando simulaciones laborales,  donde me desempeño como QA, dentro de un equipo multidisciplinario. Y tambien, como LIDER DE EQUIPO de otros dos equipo. Esta experiencia ha sido fundamental para fortalecer y demostrar mis capacidades y habilidades, tanto técnicas como blandas.
+No Country, realizadando pasantías laborales, donde me desempeño como tester manual, dentro de un equipo multidisciplinario, multicultural y multigeneracional. Esta experiencia ha sido fundamental para fortalecer y demostrar mis capacidades y habilidades, tanto técnicas como blandas.
 
-Responsabilidades en el rol de QA: Selección de herramientas de trabajo, como Trello y Figma para la gestión de proyectos. Creación de historias de usuarios y sus criterios de aceptación. Elaboración del correspondiente plan de pruebas. Diseño de casos de prueba. Ejecución de casos de prueba de manera manual. Pruebas de endpoints (backend) con Swagger y Postman. Informe de los issues encontrados. Asi como tambien, la organización de reuniones diarias, planificación de actividades, presentación de cada sprint y presentación final de la aplicación.
+### Responsabilidades:
+- Creación de historias de usuarios y sus correspondientes criterios de aceptación, para corroborar el correcto funcionamiento del producto.
+- Elaboración del correspondiente plan de pruebas. 
+- Diseño de casos de prueba, basados en el funcionamiento general de la aplicación, para encontrar errores en etapas tempranas.
+- Ejecución de casos de prueba de manera manual. Pruebas de endpoints con Swagger, Postman o Insomnia.
+- Reporte de bugs, detallado indicando paso a paso y evidencia para que los desarrolladores encuentren la falla.
 
-Mis responsabilidades como Team Leaer incluyen: Coordinar las reuniones de seguimiento. Asistir y guiar al equipo en el desarrollo del proyecto. Registrar la asistencia y el avance del Equipo. Facilitar la comunicación de los miembros del equipo.
+Tambien, me desempeño como Project Manager de un equipo multidisciplinario, multicultural y multigeneracional. Esta experiencia fortaleció mis capacidades y habilidades, tanto técnicas como blandas.
 
+### Responsabilidades:
+- Selección de herramientas de trabajo, como Jira o Trello para la gestión de proyectos. Creación de historias de usuarios y sus criterios de aceptación.
+- Coordinar y programar reuniones diarias del equipo.
+- Gestionar calendarios, sprint, tareas y entregas.
+- Crear la documentación el proyecto, así como mantener su adecuada organización.
 
+Y como Team Leader de varios equipos multidisciplinarios, multiculturales y multigeneracionales. Esta experiencia ha sido fundamental para fortalecer y demostrar mis capacidades y habilidades, tanto técnicas como blandas.
+
+### Responsabilidades:
+- Desarrollar y perfeccionar mis habilidades de liderazgo.
+- Motivar y guiar a los integrantes hacia lograr su objetivo principal.
+- Mantener una comunicación efectiva dentro del equipo.
+- Resolución de conflictos.
 
 ## 🔗 Un proyecto en el que estoy trabajando es Mercado Chamba. Enlaces Importantes
 
@@ -44,31 +61,12 @@ Mis responsabilidades como Team Leaer incluyen: Coordinar las reuniones de segui
 
 - Gestion de proyectos: `Trello`  `Jira`  `Jet Brains` `Figma`
 - Base de datos: `My SQL`  `Postgre` `SQL Server`
-- QA: `Postman` `Swagger` `XRay Workflow`
+- QA: `Postman` `Swagger` `Insomnia` `XRay Workflow` `QASE` 
 
 ## 📖 Curriculum Vitae
-- [JOHANNA TARABELLI_ CV ESPAÑOL](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/JOHANNA%20TARABELLI_CV%20ESPA%C3%91OL.pdf)
-- [JOHANNA TARABELLI_ CV ENGLISH](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/JOHANNA%20TARABELLI%20CV_ENGLISH.pdf)
+- [JOHANNA TARABELLI_ CV ESPAÑOL](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/JOHANNA%20TARABELLI_CV.pdf)
 - [CV - Proof of Soft Skills_ESPAÑOL](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/CV%20-%20Proof%20of%20Soft%20Skills%20-%20Johana%20Tarabelli%20ES.pdf)
-- [CV - Proof of Soft Skills_ENGLISH](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/CV%20-%20Proof%20of%20Soft%20Skills%20-%20Johana%20Tarabelli%20EN.pdf)
   
 ### Algunos iconos
 
 [![My Skills](https://skillicons.dev/icons?i=figma,github,mysql,postman,vscode,visualstudio&theme=dark)](https://skillicons.dev)
-
-
-
-<!--
-**johannatarabelli/johannaTarabelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

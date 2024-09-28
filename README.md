@@ -16,7 +16,7 @@ Con gran entusiasmo por aplicar mis conocimientos y habilidades en proyectos des
 | Avatar                        | Nombre          | Rol                    | GitHub & Redes            | Telefono                        | E-mail          | Ciudad                    | Pais            |
 | ----------------------------- | --------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | --------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |       |
-| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/141964978?v=4" alt="johannatarabelli avatar" /> | Johanna Tarabelli | QA                     | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/johannatarabelli) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/johanna-tarabelli)   | 54+ 2615469032 | johita.tarabelli@gmail.com| Mendoza                     | Argentina   | 
+| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/141964978?v=4" alt="johannatarabelli avatar" /> | Johanna Tarabelli | QA                     | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/johannatarabelli) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/johanna-tarabelli)   | 54+ 2615469032 | johita.tarabelli@gmail.com| Mendoza                     | Argentina   | 
 |            |
 
 

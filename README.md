@@ -1,7 +1,6 @@
 # Hola a todos 👋 Soy Johanna Tarabelli
 Soy Project Manager y Analista QA Manual, especializada en la gestión de proyectos tecnológicos, aseguramiento de la calidad del software y liderazgo de equipos multidisciplinarios.
 
-<img src="https://github.com/johannatarabelli/johannaTarabelli/blob/main/ASSET/NUEVA%20MARCA%20PERSONAL.png" alt="logo personal" />
 
 ## 📖 Descripción Profecional
 

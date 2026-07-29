@@ -1,67 +1,174 @@
 # Hola a todos 👋 Soy Johanna Tarabelli
-Una apasionada Analista QA de Argentina, enfocada en la mejora continua de los procesos de software, considero que las pruebas son un paso crucial en el desarrollo, ya que garantizan que el producto sea confiable, eficiente y cumpla con todas las especificaciones y requisitos del usuario.
+Soy Project Manager y Analista QA Manual, especializada en la gestión de proyectos tecnológicos, aseguramiento de la calidad del software y liderazgo de equipos multidisciplinarios.
 
 <img src="https://github.com/johannatarabelli/johannaTarabelli/blob/main/ASSET/NUEVA%20MARCA%20PERSONAL.png" alt="logo personal" />
 
-## 📖 Descripción del Personal
+## 📖 Descripción Profecional
 
-Profesional orientada principalmente a medir la calidad de los procesos, utilizados para crear software de calidad. Al mismo tiempo, me desarrollo en la gestión de proyectos y liderazgo de equipos IT. Cuento con capacidad de trabajo en equipo, adaptabilidad al cambio y enfoque de aprendizaje autodirigido. 
+Mi experiencia combina la planificación y coordinación de proyectos con la definición de procesos de calidad, permitiéndome garantizar productos funcionales, alineados con las necesidades del negocio y con una excelente experiencia para el usuario.
 
-Orientada a seguir aprendiendo y mejorando mis habilidades para mantenerme actualizada con las últimas tecnologías en el campo de la gestión de proyectos y el testing. 
+Me apasiona la mejora continua, la optimización de procesos y el trabajo colaborativo. Disfruto liderar equipos multiculturales y multidisciplinarios, fomentando la comunicación, la organización y el cumplimiento de objetivos mediante metodologías ágiles.
 
-Con gran entusiasmo por aplicar mis conocimientos y habilidades en proyectos desafiantes y contribuir significativamente en los proyectos que se me presenten.
+Mantengo un aprendizaje constante para incorporar nuevas metodologías, herramientas y tecnologías que aporten valor tanto a la gestión de proyectos como al proceso de aseguramiento de la calidad.
+
+Mi objetivo es contribuir al desarrollo de productos de alto impacto, promoviendo la calidad desde las primeras etapas del proyecto y acompañando a los equipos para alcanzar resultados sostenibles.
+
+## Como QA Manual participo activamente durante todo el ciclo de vida del desarrollo de software, asegurando la calidad funcional del producto y colaborando estrechamente con Product Managers, desarrolladores, diseñadores y stakeholders.
+
+### Principales responsabilidades
+Elaboración de estrategias y planes de prueba.
+Diseño y mantenimiento de casos de prueba.
+Ejecución de pruebas funcionales, exploratorias, de regresión y Smoke Testing.
+Validación de historias de usuario y criterios de aceptación.
+Pruebas de APIs utilizando Swagger, Postman e Insomnia.
+Identificación, documentación y seguimiento de bugs mediante evidencia detallada y pasos de reproducción.
+Validación de correcciones antes de su liberación.
+Pruebas de experiencia de usuario (UX Testing), proponiendo mejoras orientadas a la usabilidad.
+Colaboración con los equipos de desarrollo para prevenir defectos desde etapas tempranas del proyecto.
+Elaboración de documentación funcional y de calidad.
+Experiencia como Project Manager
+
+## Como Project Manager coordino equipos de desarrollo aplicando metodologías ágiles, asegurando una planificación clara, una comunicación efectiva y el cumplimiento de los objetivos del proyecto.
+
+### Principales responsabilidades
+Planificación y seguimiento de proyectos tecnológicos.
+Gestión del backlog y priorización de requerimientos.
+Creación de historias de usuario y definición de criterios de aceptación.
+Organización de Roadmaps, Releases y Sprints.
+Coordinación de reuniones de Planning, Daily, Review, Demo y Retrospective.
+Gestión de tareas mediante Jira, GitHub Projects y Trello.
+Seguimiento de indicadores, riesgos y bloqueantes.
+Coordinación entre equipos técnicos, producto y stakeholders.
+Elaboración y mantenimiento de documentación funcional y técnica.
+Acompañamiento continuo al equipo para garantizar entregas de calidad.
+Experiencia en Liderazgo de Equipos
+
+## He liderado equipos multiculturales, multidisciplinarios y distribuidos geográficamente, promoviendo un ambiente colaborativo, organizado y orientado a resultados.
+
+### Principales responsabilidades
+Liderazgo y acompañamiento de equipos técnicos.
+Coordinación de Project Managers, Team Leaders y equipos de desarrollo.
+Mentoría y formación de nuevos integrantes.
+Organización de procesos internos y definición de metodologías de trabajo.
+Resolución de conflictos y facilitación de la comunicación entre áreas.
+Seguimiento del desempeño mediante objetivos, métricas y KPIs.
+Promoción de la mejora continua y la autonomía de los equipos.
+Gestión del cambio y adaptación a nuevos desafíos tecnológicos.
+Fortalezas profesionales
+Gestión de Proyectos IT.
+Software Quality Assurance.
+Liderazgo de equipos.
+Metodologías Ágiles (Scrum).
+Gestión de Productos.
+Planificación estratégica.
+Organización y gestión del tiempo.
+Comunicación efectiva.
+Resolución de problemas.
+Mejora continua.
+Trabajo colaborativo.
+Adaptabilidad al cambio.
+Pensamiento analítico.
+Orientación a resultados.
+Aprendizaje continuo.
+IA aplicada a la gestión de proyectos y QA.
 
 ## ![image](https://github.com/user-attachments/assets/2a831fc3-0f2a-4278-b0e6-8b71ff59ed2d) Datos de contacto
 
 | Avatar                        | Nombre          | Rol                    | GitHub & Redes            | Telefono                        | E-mail          | Ciudad                    | Pais            |
 | ----------------------------- | --------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | --------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |       |
-| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/141964978?v=4" alt="johannatarabelli avatar" /> | Johanna Tarabelli | QA                     | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/johannatarabelli) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/johanna-tarabelli)   | 54+ 2615469032 | johita.tarabelli@gmail.com| Mendoza                     | Argentina   | 
+| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/141964978?v=4" alt="johannatarabelli avatar" /> | Johanna Tarabelli | PROJECT MANAGER & QA                     | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/johannatarabelli) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/johanna-tarabelli)   | 54+ 2615469032 | johita.tarabelli@gmail.com| Mendoza                     | Argentina   | 
 |            |
 
 
 ## 👨‍💻 Actualmente estoy trabajando en 
 
-No Country, realizadando pasantías laborales, donde me desempeño como tester manual, dentro de un equipo multidisciplinario, multicultural y multigeneracional. Esta experiencia ha sido fundamental para fortalecer y demostrar mis capacidades y habilidades, tanto técnicas como blandas.
+No Country, como Projet Manager del equipo de desarrollo y liderando el equipo de QA.
 
-### Responsabilidades:
-- Creación de historias de usuarios y sus correspondientes criterios de aceptación, para corroborar el correcto funcionamiento del producto.
-- Elaboración del correspondiente plan de pruebas. 
-- Diseño de casos de prueba, basados en el funcionamiento general de la aplicación, para encontrar errores en etapas tempranas.
-- Ejecución de casos de prueba de manera manual. Pruebas de endpoints con Swagger, Postman o Insomnia.
-- Reporte de bugs, detallado indicando paso a paso y evidencia para que los desarrolladores encuentren la falla.
+### Responsabilidades como QA:
+•Diseño y ejecución de casos de prueba basados en requerimientos funcionales y no funcionales.
+•Diseño de historias de usuario.
+•Definición de criterios de aceptación.
+•Elaboración de planes de prueba para cada funcionalidad y general.
+•Testing manual. Ejecución de pruebas funcionales, de regresión e integración para asegurar la estabilidad del producto.
+•Testing de APIs utilizando Swagger.
+•Reporte, seguimiento y validación de bugs en diferentes herramientas, con documentación clara, evidencia detallada y foco en la prevención de defectos.
+•Colaboración activa con desarrolladores y líderes de proyecto para garantizar la calidad en cada sprint.
 
-Tambien, me desempeño como Project Manager de un equipo multidisciplinario, multicultural y multigeneracional. Esta experiencia fortaleció mis capacidades y habilidades, tanto técnicas como blandas.
+### Responsabilidades como PM:
+•Liderazgo y coordinación de un equipo multidisciplinario (desarrollo y QA) en proyectos de software bajo metodologías ágiles.
+•Planificación, organización y seguimiento de sprints, asegurando el cumplimiento de objetivos, plazos y entregables definidos.
+•Definición, refinamiento y validación de historias de usuario y criterios de aceptación en conjunto con stakeholders y equipo técnico.
+•Gestión del backlog y priorización de tareas en función del valor de negocio y la calidad del producto.
+•Facilitación de ceremonias ágiles (planning, daily, review y retrospectiva).
+•Identificación, gestión y remoción de impedimentos para garantizar la continuidad del flujo de trabajo.
+•Seguimiento de incidencias y control de calidad del producto, aplicando criterios funcionales y de experiencia de usuario.
+•Reporte de avances, riesgos y estado del proyecto, promoviendo la comunicación clara entre negocio, desarrollo y calidad.
+•Uso de herramientas de gestión como Jira para el seguimiento de tareas, bugs y métricas del proyecto.
 
-### Responsabilidades:
-- Selección de herramientas de trabajo, como Jira o Trello para la gestión de proyectos. Creación de historias de usuarios y sus criterios de aceptación.
-- Coordinar y programar reuniones diarias del equipo.
-- Gestionar calendarios, sprint, tareas y entregas.
-- Crear la documentación el proyecto, así como mantener su adecuada organización.
 
-Y como Team Leader de varios equipos multidisciplinarios, multiculturales y multigeneracionales. Esta experiencia ha sido fundamental para fortalecer y demostrar mis capacidades y habilidades, tanto técnicas como blandas.
+## 🛠️ Herramientas y Tecnologías
 
-### Responsabilidades:
-- Desarrollar y perfeccionar mis habilidades de liderazgo.
-- Motivar y guiar a los integrantes hacia lograr su objetivo principal.
-- Mantener una comunicación efectiva dentro del equipo.
-- Resolución de conflictos.
+QA & Testing
 
-## 🔗 Un proyecto en el que estoy trabajando es Mercado Chamba. Enlaces Importantes
+QASE
+Postman
+Swagger (OpenAPI)
+Insomnia
+JMeter
+Diseño y ejecución de casos de prueba
+Pruebas funcionales
+Pruebas exploratorias
+Smoke Testing
+Regression Testing
+API Testing
+Reporte y seguimiento de bugs
 
-- [Documentación del Proyecto](https://github.com/johannatarabelli/mercadochamba/tree/main/DOCUMENTACION)
-- [Guía de Estilo del Proyecto](https://www.figma.com/design/6zpFTDPZMJIABz5thVWbsm/MERCADO-CHAMBA?node-id=0-1&t=B9m0kH87pK3vAA2h-0)
-- [Organización del Proyecto](https://trello.com/b/JJlgL08E/backlog-c19-12-m-csharp-angular)
-- [GitHub del Proyecto](https://github.com/No-Country-simulation/c19-12-m-csharp-angular)
-- [Video de Presentación](https://www.canva.com/design/DAGMhAYUV6E/kT8aP4BKrnnvLqKzH2w0UQ/edit)
-- [Despliege de Backend](https://www.mercado-chamba.somee.com/swagger/index.html)
-- [Sitio Web](https://mercado-chamba.netlify.app/)
+Gestión de Proyectos
 
-## 🛠️ Tecnologías Utilizadas
+Jira
+GitHub Projects
+Trello
+Scrum
+Kanban
+Agile
+Sprint Planning
+Gestión de Backlog
+Roadmaps
+Priorización de tareas
 
-- Gestion de proyectos: `Trello`  `Jira`  `Jet Brains` `Figma`
-- Base de datos: `My SQL`  `Postgre` `SQL Server`
-- QA: `Postman` `Swagger` `Insomnia` `XRay Workflow` `QASE` 
+Bases de Datos
+
+SQL
+MySQL
+PostgreSQL
+
+Colaboración
+
+Slack
+Discord
+Microsoft Excel (Avanzado)
+Google Workspace
+
+Inteligencia Artificial
+
+ChatGPT
+Claude
+Gemini
+Generación de casos de prueba con IA
+Documentación técnica asistida por IA
+Optimización de procesos mediante IA
+Un detalle que marcaría una gran diferencia
+
+QA Leadership & Process
+
+Definición de estrategias de QA
+Diseño de procesos de testing
+Coordinación de equipos QA
+Mentoría de QA Fellows
+Gestión de métricas y KPIs
+Elaboración de planes de prueba
+Mejora continua de procesos
 
 ## 📖 Curriculum Vitae
 - [JOHANNA TARABELLI_ CV ESPAÑOL](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/JOHANNA%20TARABELLI_CV.pdf)

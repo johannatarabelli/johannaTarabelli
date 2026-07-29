@@ -15,61 +15,61 @@ Mi objetivo es contribuir al desarrollo de productos de alto impacto, promoviend
 ## Como QA Manual participo activamente durante todo el ciclo de vida del desarrollo de software, asegurando la calidad funcional del producto y colaborando estrechamente con Product Managers, desarrolladores, diseñadores y stakeholders.
 
 ### Principales responsabilidades
-Elaboración de estrategias y planes de prueba.
-Diseño y mantenimiento de casos de prueba.
-Ejecución de pruebas funcionales, exploratorias, de regresión y Smoke Testing.
-Validación de historias de usuario y criterios de aceptación.
-Pruebas de APIs utilizando Swagger, Postman e Insomnia.
-Identificación, documentación y seguimiento de bugs mediante evidencia detallada y pasos de reproducción.
-Validación de correcciones antes de su liberación.
-Pruebas de experiencia de usuario (UX Testing), proponiendo mejoras orientadas a la usabilidad.
-Colaboración con los equipos de desarrollo para prevenir defectos desde etapas tempranas del proyecto.
-Elaboración de documentación funcional y de calidad.
-Experiencia como Project Manager
+- Elaboración de estrategias y planes de prueba.
+- Diseño y mantenimiento de casos de prueba.
+- Ejecución de pruebas funcionales, exploratorias, de regresión y Smoke Testing.
+- Validación de historias de usuario y criterios de aceptación.
+- Pruebas de APIs utilizando Swagger, Postman e Insomnia.
+- Identificación, documentación y seguimiento de bugs mediante evidencia detallada y pasos de reproducción.
+- Validación de correcciones antes de su liberación.
+- Pruebas de experiencia de usuario (UX Testing), proponiendo mejoras orientadas a la usabilidad.
+- Colaboración con los equipos de desarrollo para prevenir defectos desde etapas tempranas del proyecto.
+- Elaboración de documentación funcional y de calidad.
+- Experiencia como Project Manager
 
 ## Como Project Manager coordino equipos de desarrollo aplicando metodologías ágiles, asegurando una planificación clara, una comunicación efectiva y el cumplimiento de los objetivos del proyecto.
 
 ### Principales responsabilidades
-Planificación y seguimiento de proyectos tecnológicos.
-Gestión del backlog y priorización de requerimientos.
-Creación de historias de usuario y definición de criterios de aceptación.
-Organización de Roadmaps, Releases y Sprints.
-Coordinación de reuniones de Planning, Daily, Review, Demo y Retrospective.
-Gestión de tareas mediante Jira, GitHub Projects y Trello.
-Seguimiento de indicadores, riesgos y bloqueantes.
-Coordinación entre equipos técnicos, producto y stakeholders.
-Elaboración y mantenimiento de documentación funcional y técnica.
-Acompañamiento continuo al equipo para garantizar entregas de calidad.
-Experiencia en Liderazgo de Equipos
+- Planificación y seguimiento de proyectos tecnológicos.
+- Gestión del backlog y priorización de requerimientos.
+- Creación de historias de usuario y definición de criterios de aceptación.
+- Organización de Roadmaps, Releases y Sprints.
+- Coordinación de reuniones de Planning, Daily, Review, Demo y Retrospective.
+- Gestión de tareas mediante Jira, GitHub Projects y Trello.
+- Seguimiento de indicadores, riesgos y bloqueantes.
+- Coordinación entre equipos técnicos, producto y stakeholders.
+- Elaboración y mantenimiento de documentación funcional y técnica.
+- Acompañamiento continuo al equipo para garantizar entregas de calidad.
+- Experiencia en Liderazgo de Equipos
 
 ## He liderado equipos multiculturales, multidisciplinarios y distribuidos geográficamente, promoviendo un ambiente colaborativo, organizado y orientado a resultados.
 
 ### Principales responsabilidades
-Liderazgo y acompañamiento de equipos técnicos.
-Coordinación de Project Managers, Team Leaders y equipos de desarrollo.
-Mentoría y formación de nuevos integrantes.
-Organización de procesos internos y definición de metodologías de trabajo.
-Resolución de conflictos y facilitación de la comunicación entre áreas.
-Seguimiento del desempeño mediante objetivos, métricas y KPIs.
-Promoción de la mejora continua y la autonomía de los equipos.
-Gestión del cambio y adaptación a nuevos desafíos tecnológicos.
-Fortalezas profesionales
-Gestión de Proyectos IT.
-Software Quality Assurance.
-Liderazgo de equipos.
-Metodologías Ágiles (Scrum).
-Gestión de Productos.
-Planificación estratégica.
-Organización y gestión del tiempo.
-Comunicación efectiva.
-Resolución de problemas.
-Mejora continua.
-Trabajo colaborativo.
-Adaptabilidad al cambio.
-Pensamiento analítico.
-Orientación a resultados.
-Aprendizaje continuo.
-IA aplicada a la gestión de proyectos y QA.
+- Liderazgo y acompañamiento de equipos técnicos.
+- Coordinación de Project Managers, Team Leaders y equipos de desarrollo.
+- Mentoría y formación de nuevos integrantes.
+- Organización de procesos internos y definición de metodologías de trabajo.
+- Resolución de conflictos y facilitación de la comunicación entre áreas.
+- Seguimiento del desempeño mediante objetivos, métricas y KPIs.
+- Promoción de la mejora continua y la autonomía de los equipos.
+- Gestión del cambio y adaptación a nuevos desafíos tecnológicos.
+- Fortalezas profesionales
+- Gestión de Proyectos IT.
+- Software Quality Assurance.
+- Liderazgo de equipos.
+- Metodologías Ágiles (Scrum).
+- Gestión de Productos.
+- Planificación estratégica.
+- Organización y gestión del tiempo.
+- Comunicación efectiva.
+- Resolución de problemas.
+- Mejora continua.
+- Trabajo colaborativo.
+- Adaptabilidad al cambio.
+- Pensamiento analítico.
+- Orientación a resultados.
+- Aprendizaje continuo.
+- IA aplicada a la gestión de proyectos y QA.
 
 ## ![image](https://github.com/user-attachments/assets/2a831fc3-0f2a-4278-b0e6-8b71ff59ed2d) Datos de contacto
 
@@ -108,66 +108,66 @@ No Country, como Projet Manager del equipo de desarrollo y liderando el equipo d
 
 ## 🛠️ Herramientas y Tecnologías
 
-QA & Testing
+## QA & Testing
 
-QASE
-Postman
-Swagger (OpenAPI)
-Insomnia
-JMeter
-Diseño y ejecución de casos de prueba
-Pruebas funcionales
-Pruebas exploratorias
-Smoke Testing
-Regression Testing
-API Testing
-Reporte y seguimiento de bugs
+- QASE
+- Postman
+- Swagger (OpenAPI)
+- Insomnia
+- JMeter
+- Diseño y ejecución de casos de prueba
+- Pruebas funcionales
+- Pruebas exploratorias
+- Smoke Testing
+- Regression Testing
+- API Testing
+- Reporte y seguimiento de bugs
 
-Gestión de Proyectos
+## Gestión de Proyectos
 
-Jira
-GitHub Projects
-Trello
-Scrum
-Kanban
-Agile
-Sprint Planning
-Gestión de Backlog
-Roadmaps
-Priorización de tareas
+- Jira
+- GitHub Projects
+- Trello
+- Scrum
+- Kanban
+- Agile
+- Sprint Planning
+- Gestión de Backlog
+- Roadmaps
+- Priorización de tareas
 
-Bases de Datos
+## Bases de Datos
 
-SQL
-MySQL
-PostgreSQL
+- SQL
+- MySQL
+- PostgreSQL
 
-Colaboración
+## Colaboración
 
-Slack
-Discord
-Microsoft Excel (Avanzado)
-Google Workspace
+- Slack
+- Discord
+- Microsoft Excel (Avanzado)
+- Google Workspace
 
-Inteligencia Artificial
+## Inteligencia Artificial
 
-ChatGPT
-Claude
-Gemini
-Generación de casos de prueba con IA
-Documentación técnica asistida por IA
-Optimización de procesos mediante IA
-Un detalle que marcaría una gran diferencia
+- ChatGPT
+- Claude
+- Gemini
+- Generación de casos de prueba con IA
+- Documentación técnica asistida por IA
+- Optimización de procesos mediante IA
+- Un detalle que marcaría una gran diferencia
 
-QA Leadership & Process
+## QA Leadership & Process
 
-Definición de estrategias de QA
-Diseño de procesos de testing
-Coordinación de equipos QA
-Mentoría de QA Fellows
-Gestión de métricas y KPIs
-Elaboración de planes de prueba
-Mejora continua de procesos
+- Definición de estrategias de QA
+- Diseño de procesos de testing
+- Coordinación de equipos QA
+- Mentoría de QA Fellows
+- Gestión de métricas y KPIs
+- Elaboración de planes de prueba
+- Mejora continua de procesos
 
 ## 📖 Curriculum Vitae
 - [JOHANNA TARABELLI_ CV](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/CV_JOHANNA%20TARABELLI_QA%20MANUAL%20SS.pdf)

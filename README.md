@@ -170,8 +170,8 @@ Elaboración de planes de prueba
 Mejora continua de procesos
 
 ## 📖 Curriculum Vitae
-- [JOHANNA TARABELLI_ CV ESPAÑOL](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/JOHANNA%20TARABELLI_CV.pdf)
-- [CV - Proof of Soft Skills_ESPAÑOL](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/CV%20-%20Proof%20of%20Soft%20Skills%20-%20Johana%20Tarabelli%20ES.pdf)
+- [JOHANNA TARABELLI_ CV](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/CV_JOHANNA%20TARABELLI_QA%20MANUAL%20SS.pdf)
+- [Proof of Soft Skills](https://github.com/johannatarabelli/johannaTarabelli/blob/main/CV/CV%20-%20Proof%20of%20Soft%20Skills%20-%20Johana%20Tarabelli%20ES.pdf)
   
 ### Algunos iconos
 
